@@ -41,6 +41,7 @@ export class Register extends Component {
     <label for="long1" style={{color:"#fff"}}>Longitude</label>
     <input type="string" class="form-control" id="long1" placeholder="Enter Longitude"/>
   </div>
+  <button type="submit"><b>Register Now</b></button>
   
   
 </form>
